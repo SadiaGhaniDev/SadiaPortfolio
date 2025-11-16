@@ -1,0 +1,189 @@
+{
+  "portfolio": {
+    "name": "Sadia Ghani Malik",
+    "title": ".NET Developer",
+    "bio": "Passionate developer specializing in financial technology and cloud solutions",
+    "email": "sadiagmalik.m@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/sadiaghanimalik/",
+    "location": "Global",
+    "yearsExperience": "5+",
+    "projectsCompleted": "15+",
+    "technologiesCount": "8+",
+    "colors": {
+      "primary": "#2c3e50",
+      "secondary": "#3498db",
+      "accent": "#e74c3c",
+      "lightBg": "#f8f9fa",
+      "darkBg": "#1a1a1a"
+    },
+    "skills": {
+      "backend": [
+        "C#",
+        "ASP.NET Core",
+        ".NET Framework",
+        "Entity Framework",
+        "LINQ"
+      ],
+      "frontend": [
+        "HTML/CSS",
+        "JavaScript",
+        "jQuery",
+        "Bootstrap",
+        "Responsive Design"
+      ],
+      "database": [
+        "SQL Server",
+        "MySQL",
+        "Database Design",
+        "Query Optimization"
+      ],
+      "tools": [
+        "Azure DevOps",
+        "Git",
+        "Visual Studio",
+        "JIRA",
+        "Postman"
+      ]
+    },
+    "projects": [
+      {
+        "id": "bahl",
+        "name": "BAHL Mobile Application",
+        "type": "Financial Management Platform",
+        "description": "A comprehensive financial management application designed for personal and business finance tracking with real-time analytics.",
+        "technologies": ["C#", "Xamarin", "SQL Server"],
+        "images": ["portfolioImages/profilepic.jpg"],
+        "folder": "portfolioImages/BAHL"
+      },
+      {
+        "id": "bankcorp",
+        "name": "BankCorp Mobile App",
+        "type": "Banking Services Platform",
+        "description": "Enterprise banking application providing secure transaction management, account management, and financial services.",
+        "technologies": ["C#", "ASP.NET", "Azure"],
+        "images": ["portfolioImages/profilepic.jpg"],
+        "folder": "portfolioImages/BankCorp"
+      },
+      {
+        "id": "debitcredit",
+        "name": "DebitCredit Payment System",
+        "type": "Payment Processing Platform",
+        "description": "Advanced payment processing system with support for multiple payment methods, transaction history, and security features.",
+        "technologies": ["C#", "API Integration", "MySQL"],
+        "images": ["portfolioImages/profilepic.jpg"],
+        "folder": "portfolioImages/DebitCredit"
+      },
+      {
+        "id": "scannpay",
+        "name": "ScanNPay QR Solution",
+        "type": "QR Code Payment System",
+        "description": "Innovative QR code-based payment solution enabling quick and secure transactions through mobile scanning technology.",
+        "technologies": ["C#", "QR Processing", "Real-time"],
+        "images": ["portfolioImages/profilepic.jpg"],
+        "folder": "portfolioImages/ScanNPay"
+      }
+    ],
+    "certifications": [
+      {
+        "name": "Microsoft Certified: Azure Developer Associate",
+        "issuer": "Microsoft",
+        "year": "2023"
+      },
+      {
+        "name": "Microsoft Certified: Azure Fundamentals",
+        "issuer": "Microsoft",
+        "year": "2022"
+      },
+      {
+        "name": "ASP.NET Core Professional Certification",
+        "issuer": "Pluralsight",
+        "year": "2023"
+      },
+      {
+        "name": "SQL Server Certification",
+        "issuer": "Microsoft",
+        "year": "2022"
+      }
+    ],
+    "experience": [
+      {
+        "position": "Senior .NET Developer",
+        "company": "BankCorp Solutions",
+        "duration": "2 Years",
+        "current": true,
+        "responsibilities": [
+          "Architected and developed enterprise-level banking applications",
+          "Optimized database queries improving performance by 40%",
+          "Led a team of 5 developers in delivering high-quality solutions",
+          "Implemented CI/CD pipelines using Azure DevOps"
+        ]
+      },
+      {
+        "position": ".NET Developer",
+        "company": "DebitCredit Technologies",
+        "duration": "2 Years",
+        "current": false,
+        "responsibilities": [
+          "Developed mobile and web applications for payment processing",
+          "Integrated third-party APIs for payment gateways",
+          "Improved application security with authentication mechanisms",
+          "Collaborated with UX/UI team for better user experience"
+        ]
+      },
+      {
+        "position": "Junior .NET Developer",
+        "company": "BAHL Corporation",
+        "duration": "1+ Year",
+        "current": false,
+        "responsibilities": [
+          "Developed web applications using ASP.NET Core",
+          "Participated in code reviews and best practices",
+          "Implemented CRUD operations and data validation",
+          "Assisted in database design and optimization"
+        ]
+      }
+    ],
+    "research": [
+      {
+        "title": "Implementing Secure Payment Gateways in Fintech Applications",
+        "publication": "Tech Community Blog",
+        "year": "2023",
+        "description": "An in-depth guide on implementing secure payment solutions in modern fintech applications, covering encryption, API security, and best practices."
+      },
+      {
+        "title": "Cloud Migration Strategies for Legacy Systems",
+        "publication": "Cloud Developer Journal",
+        "year": "2023",
+        "description": "Comprehensive study on migrating legacy .NET applications to Azure cloud platform with minimal downtime."
+      },
+      {
+        "title": "Real-time Analytics in Financial Applications",
+        "publication": "Developer Conference",
+        "year": "2022",
+        "description": "Presented insights on implementing real-time data processing and analytics in financial software systems."
+      }
+    ],
+    "interests": [
+      {
+        "icon": "fa-chart-line",
+        "title": "Fintech & Financial Technology",
+        "description": "Deeply passionate about the evolution of financial technology and its impact on the global economy. I enjoy exploring blockchain, cryptocurrency, and innovative payment solutions."
+      },
+      {
+        "icon": "fa-graduation-cap",
+        "title": "Continuous Learning",
+        "description": "I'm committed to staying updated with emerging technologies and trends in the tech industry. Always exploring new frameworks, languages, and development methodologies."
+      },
+      {
+        "icon": "fa-globe",
+        "title": "Traveling & Exploration",
+        "description": "A travel enthusiast who believes that exploring different cultures and places provides invaluable insights and perspectives for creative problem-solving."
+      },
+      {
+        "icon": "fa-microscope",
+        "title": "Research & Innovation",
+        "description": "Passionate about researching new technologies and methodologies to improve software development practices and create innovative solutions to real-world problems."
+      }
+    ]
+  }
+}
